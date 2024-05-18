@@ -25,12 +25,12 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "Portfolio ",
-    description: "Project 3 description",
+    title: "Portfolio Website",
+    description: "Building a responsive personal portfolio website to showcase my projects, skills, and experiences, specifically as a frontend developer and generally as a software engineer.",
     image: "/images/projects/project3.png",
     tag: ["All", "Frontend"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/Minhtandev/portfolio",
+    previewUrl: "https://portfolio-pmo3.vercel.app/",
   },
 ];
 
